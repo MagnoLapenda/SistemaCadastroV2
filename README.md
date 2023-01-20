@@ -1,1 +1,1 @@
-Desenvolvimento de algoritmo para um sistema de cadastro e armazenamento dos dados no Microsoft Azure SQL Database.
+Desenvolvimento de algoritmo para um sistema de cadastro e armazenamento dos dados no Azure SQL Database.
