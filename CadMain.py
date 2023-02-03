@@ -1,8 +1,8 @@
-from SistemaCadastroV2.CadConex import fechar_conexao
-from SistemaCadastroV2.ClasseCartao import consultar_cartao, deletar_cartao, cadastrar_cartao
-from SistemaCadastroV2.ClasseMotorista import cadastrar_motorista, deletar_motorista, consultar_motorista
-from SistemaCadastroV2.ClasseOnibus import cadastrar_onibus, deletar_onibus, consultar_onibus
-from SistemaCadastroV2.ClasseUsuario import cadastrar_usuario, deletar_usuario, consultar_usuarios
+from CadConex import fechar_conexao
+from ClasseCartao import consultar_cartao, deletar_cartao, cadastrar_cartao
+from ClasseMotorista import cadastrar_motorista, deletar_motorista, consultar_motorista
+from ClasseOnibus import cadastrar_onibus, deletar_onibus, consultar_onibus
+from ClasseUsuario import cadastrar_usuario, deletar_usuario, consultar_usuarios
 
 
 # Pergunta apresentada ao final de cada ação nos painéis específicos
