@@ -1,9 +1,9 @@
 import pyodbc
 
-server = 'Nome do servidor'
+server = 'tcp: Servidor'
 driver = '{ODBC Driver 18 for SQL Server}'
-database = 'Nome do banco de dados'
-username = 'Email do usuário'
+database = 'Banco de dados'
+username = 'Email de login'
 Authentication = 'ActiveDirectoryInteractive'
 port = '1433'
 

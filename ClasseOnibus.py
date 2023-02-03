@@ -1,7 +1,7 @@
 import warnings
 import pandas as pd
 from tabulate import tabulate
-from SistemaCadastroV2.CadConex import conexao, cursor, gravar
+from CadConex import conexao, cursor, gravar
 
 
 # Classe dos ônibus
